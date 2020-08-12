@@ -2,6 +2,7 @@
 # Motivation for the project and an explanation of the problem statement
 
 <h2>The power of visualization</h2>
+
 * 인간은 시각화된 자료를 쉽게 인지할 수 있다고 함.
 * 오감 중에서 시각이 70~80%의 정보를 습득하는 수용체
 * 시각화가 가능해지면 "Read"가 아닌, "See"의 방법으로 더 빨리 정보를 받아들일 수 있게 됨.
@@ -24,6 +25,7 @@
 # Hyperparameter and architecture choices that were explored
 
 <h2>Idea</h2>
+
 * 기존의 Text to image : 주어진 문장을 기반으로 하나의 GAN을 통해 이미지를 생성함
 * Text to image는 어려운 문제이므로 **두가지 sub problem으로 나누어 보다 고해상도의 이미지를 생성하자!**
 
